@@ -4,7 +4,9 @@ E-commerce web application that allows users to search for products, add items t
 
 ![Homepage Screenshot](frontend/public/images/Ecom-Web.png)
 
-# Setup
+## Demo Video : https://drive.google.com/file/d/18lFYvkh9bUFq7sQg6HusFTbXLt7jY9hx/view?usp=sharing
+
+## Setup
 git clone 
 
 cd frontend
