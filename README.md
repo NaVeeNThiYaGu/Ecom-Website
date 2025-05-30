@@ -5,6 +5,8 @@ E-commerce web application that allows users to search for products, add items t
 ![Homepage Screenshot](frontend/public/images/Ecom-Web.png)
 
 # Setup
+git clone 
+
 cd frontend
 
 npm install
