@@ -2,7 +2,7 @@
 
 E-commerce web application that allows users to search for products, add items to a shopping cart, and browse a dynamic product catalog
 
-# How to Run
+# Setup
 cd frontend
 
 npm install
