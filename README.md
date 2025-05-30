@@ -2,6 +2,8 @@
 
 E-commerce web application that allows users to search for products, add items to a shopping cart, and browse a dynamic product catalog
 
+![Homepage Screenshot](frontend/public/images/Ecom-Web.png)
+
 # Setup
 cd frontend
 
